@@ -1,0 +1,10 @@
+gradio
+pandas
+numpy
+plotly
+xgboost
+scikit-learn
+joblib
+statsmodels
+matplotlib
+seaborn
